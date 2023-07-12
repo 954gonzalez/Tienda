@@ -25,3 +25,10 @@ body{
 .card-titulo{
     width: 200px;
 }
+button{
+    height: 50px;
+    border-radius: 10px;
+    background-color: aqua;
+    border: none;
+    width: 90px;
+}
